@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "craftmorkovsk:tractor_item"
+    },
+    "title": {
+      "translate": "advancements.craftmorkovsk.tractor_driver.title"
+    },
+    "description": {
+      "translate": "advancements.craftmorkovsk.tractor_driver.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "grant": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "craftmorkovsk:root"
+}

@@ -1,0 +1,13 @@
+{
+  "entity.craftmorkovsk.tractor": "Tractor",
+  "item.craftmorkovsk.tractor_item": "Tractor",
+  "item.craftmorkovsk.attachment_plow": "Plow Attachment",
+  "item.craftmorkovsk.attachment_planter": "Planter Attachment",
+  "item.craftmorkovsk.attachment_harvester": "Harvester Attachment",
+  "item.craftmorkovsk.attachment_spreader": "Spreader Attachment",
+  "gui.craftmorkovsk.tractor_attachment": "Attachment",
+  "gui.craftmorkovsk.tractor_cargo": "Cargo",
+  "gui.craftmorkovsk.tractor_fuel": "Fuel: %s / %s",
+  "advancements.craftmorkovsk.tractor_driver.title": "Tractor Driver",
+  "advancements.craftmorkovsk.tractor_driver.description": "Mount a tractor and take it for a spin around the field"
+}
