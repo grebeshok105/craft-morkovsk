@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "craftmorkovsk:rich_farmland"
+    },
+    "title": {
+      "translate": "advancements.craftmorkovsk.dirt_professional.title"
+    },
+    "description": {
+      "translate": "advancements.craftmorkovsk.dirt_professional.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "grant": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "craftmorkovsk:first_harvest"
+}

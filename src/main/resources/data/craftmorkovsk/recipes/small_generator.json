@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["IFI", "CRC", "III"],
+  "key": {
+    "I": {"item": "minecraft:iron_ingot"},
+    "F": {"item": "minecraft:furnace"},
+    "C": {"item": "minecraft:copper_ingot"},
+    "R": {"item": "minecraft:redstone"}
+  },
+  "result": {"item": "craftmorkovsk:small_generator"}
+}

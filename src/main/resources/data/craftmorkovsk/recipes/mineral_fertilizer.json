@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:bone_meal"},
+    {"item": "minecraft:sand"},
+    {"item": "minecraft:clay_ball"}
+  ],
+  "result": {"item": "craftmorkovsk:mineral_fertilizer", "count": 4}
+}

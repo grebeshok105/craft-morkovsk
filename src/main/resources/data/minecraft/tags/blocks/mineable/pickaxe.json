@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "craftmorkovsk:energy_cable",
+    "craftmorkovsk:small_generator",
+    "craftmorkovsk:biomass_generator",
+    "craftmorkovsk:battery"
+  ]
+}

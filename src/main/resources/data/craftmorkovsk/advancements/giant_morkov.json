@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "craftmorkovsk:giant_morkov"
+    },
+    "title": {
+      "translate": "advancements.craftmorkovsk.giant_morkov.title"
+    },
+    "description": {
+      "translate": "advancements.craftmorkovsk.giant_morkov.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "grant": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "craftmorkovsk:dirt_professional"
+}

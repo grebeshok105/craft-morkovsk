@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "craftmorkovsk:block/morkovsk_supreme_crop_stage0"
+  }
+}

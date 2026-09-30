@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "craftmorkovsk:golden_carrot_plant"
+    },
+    "title": {
+      "translate": "advancements.craftmorkovsk.golden_harvest.title"
+    },
+    "description": {
+      "translate": "advancements.craftmorkovsk.golden_harvest.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "grant": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "craftmorkovsk:dirt_professional"
+}
