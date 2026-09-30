@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["PGP", "GSG", "PGP"],
+  "key": {
+    "P": {"item": "minecraft:oak_planks"},
+    "G": {"item": "minecraft:glass_pane"},
+    "S": {"item": "minecraft:wheat_seeds"}
+  },
+  "result": {"item": "craftmorkovsk:seed_vault"}
+}

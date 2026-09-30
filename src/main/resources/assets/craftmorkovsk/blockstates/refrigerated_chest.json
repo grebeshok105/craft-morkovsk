@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,working=false": { "model": "craftmorkovsk:block/refrigerated_chest" },
+    "facing=east,working=false": { "model": "craftmorkovsk:block/refrigerated_chest", "y": 90 },
+    "facing=south,working=false": { "model": "craftmorkovsk:block/refrigerated_chest", "y": 180 },
+    "facing=west,working=false": { "model": "craftmorkovsk:block/refrigerated_chest", "y": 270 },
+    "facing=north,working=true": { "model": "craftmorkovsk:block/refrigerated_chest_on" },
+    "facing=east,working=true": { "model": "craftmorkovsk:block/refrigerated_chest_on", "y": 90 },
+    "facing=south,working=true": { "model": "craftmorkovsk:block/refrigerated_chest_on", "y": 180 },
+    "facing=west,working=true": { "model": "craftmorkovsk:block/refrigerated_chest_on", "y": 270 }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "block.craftmorkovsk.crop_crate": "Crop Crate",
+  "block.craftmorkovsk.large_crate": "Large Crate",
+  "block.craftmorkovsk.seed_vault": "Seed Vault",
+  "block.craftmorkovsk.silo": "Grain Silo",
+  "block.craftmorkovsk.refrigerated_chest": "Refrigerated Chest",
+  "gui.craftmorkovsk.storage.total": "Stored: %s / %s",
+  "gui.craftmorkovsk.storage.chilling": "Chilling",
+  "gui.craftmorkovsk.storage.no_power": "No power",
+  "advancements.craftmorkovsk.stockpiler.title": "Stockpiler",
+  "advancements.craftmorkovsk.stockpiler.description": "Store your first item in a silo or seed vault"
+}

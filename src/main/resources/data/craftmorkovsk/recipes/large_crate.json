@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["PIP", "C C", "PIP"],
+  "key": {
+    "P": {"item": "minecraft:oak_planks"},
+    "I": {"item": "minecraft:iron_ingot"},
+    "C": {"item": "craftmorkovsk:crop_crate"}
+  },
+  "result": {"item": "craftmorkovsk:large_crate"}
+}

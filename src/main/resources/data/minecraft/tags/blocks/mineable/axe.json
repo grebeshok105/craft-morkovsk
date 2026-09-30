@@ -4,6 +4,11 @@
     "craftmorkovsk:compost_bin",
     "craftmorkovsk:feeding_trough",
     "craftmorkovsk:shipping_crate",
-    "craftmorkovsk:morkovsk_shop"
+    "craftmorkovsk:morkovsk_shop",
+    "craftmorkovsk:crop_crate",
+    "craftmorkovsk:large_crate",
+    "craftmorkovsk:seed_vault",
+    "craftmorkovsk:silo",
+    "craftmorkovsk:refrigerated_chest"
   ]
 }
