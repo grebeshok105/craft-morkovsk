@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "craftmorkovsk:block/wild_crop"
+  }
+}
