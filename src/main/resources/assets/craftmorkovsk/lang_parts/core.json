@@ -13,5 +13,6 @@
   "item.craftmorkovsk.compost": "Compost",
   "item.craftmorkovsk.manure_fertilizer": "Manure Fertilizer",
   "item.craftmorkovsk.mineral_fertilizer": "Mineral Fertilizer",
-  "item.craftmorkovsk.morkovsk_fertilizer": "Morkovsk Fertilizer"
+  "item.craftmorkovsk.morkovsk_fertilizer": "Morkovsk Fertilizer",
+  "tooltip.craftmorkovsk.quality": "Quality: %s"
 }

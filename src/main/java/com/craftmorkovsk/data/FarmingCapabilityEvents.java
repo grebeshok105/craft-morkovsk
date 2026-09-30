@@ -29,11 +29,12 @@ public final class FarmingCapabilityEvents {
     public static void attach(AttachCapabilitiesEvent<Entity> event) {
         if (!(event.getObject() instanceof Player)) return;
         PlayerFarmingData data = new PlayerFarmingData();
-        LazyOptional<PlayerFarmingData> opt = LazyOptional.of(() -> data);
         event.addCapability(CAP_ID, new ICapabilitySerializable<CompoundTag>() {
             @Override
             public @NotNull <T> LazyOptional<T> getCapability(@NotNull Capability<T> cap, @Nullable Direction side) {
-                return cap == PlayerFarmingData.CAPABILITY ? opt.cast() : LazyOptional.empty();
+                return cap == PlayerFarmingData.CAPABILITY
+                        ? PlayerFarmingData.CAPABILITY.orEmpty(cap, LazyOptional.of(() -> data))
+                        : LazyOptional.empty();
             }
 
             @Override
@@ -46,7 +47,6 @@ public final class FarmingCapabilityEvents {
                 data.deserializeNBT(tag);
             }
         });
-        event.addListener(opt::invalidate);
     }
 
     /** Persist across death/respawn (End return clones the player). */

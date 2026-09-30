@@ -28,6 +28,12 @@ public class ShippingCrateScreen extends MachineScreen<ShippingCrateMenu> {
     }
 
     @Override
+    protected void renderLabels(GuiGraphics g, int mouseX, int mouseY) {
+        g.drawString(font, this.title, this.titleLabelX, this.titleLabelY, 0xFF3A2E1E, false);
+        // player-inventory label omitted: the economy HUD occupies that row
+    }
+
+    @Override
     protected void drawExtras(GuiGraphics g, float partialTick, int mouseX, int mouseY) {
         long dayIndex = minecraft.level != null ? minecraft.level.getDayTime() / 24000 : 0;
         long estimate = PriceTable.estimate(menu.handler(), dayIndex);

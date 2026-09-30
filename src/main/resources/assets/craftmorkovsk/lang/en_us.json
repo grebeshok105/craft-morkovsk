@@ -318,5 +318,6 @@
   "tooltip.craftmorkovsk.produce_crate.empty": "Empty - pack 9 produce to fill",
   "tooltip.craftmorkovsk.produce_crate.packed": "Packed: %s x%s",
   "tooltip.craftmorkovsk.produce_crate.quality": "Quality: %s",
+  "tooltip.craftmorkovsk.quality": "Quality: %s",
   "tooltip.craftmorkovsk.soil_test_kit": "Right-click farmland to inspect soil tier and moisture"
 }
