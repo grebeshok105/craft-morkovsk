@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "craftmorkovsk:compost_bin",
-    "craftmorkovsk:feeding_trough"
+    "craftmorkovsk:feeding_trough",
+    "craftmorkovsk:shipping_crate",
+    "craftmorkovsk:morkovsk_shop"
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" C ", "CBC", " C "],
+  "key": {
+    "C": {"item": "minecraft:copper_ingot"},
+    "B": {"item": "minecraft:bucket"}
+  },
+  "result": {"item": "craftmorkovsk:sprinkler_head"}
+}
