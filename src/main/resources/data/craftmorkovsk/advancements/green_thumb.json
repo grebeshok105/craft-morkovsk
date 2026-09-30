@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:glass"
+    },
+    "title": {
+      "translate": "advancements.craftmorkovsk.green_thumb.title"
+    },
+    "description": {
+      "translate": "advancements.craftmorkovsk.green_thumb.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "grant": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "craftmorkovsk:root"
+}

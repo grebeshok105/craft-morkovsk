@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "minecraft:meadow"
+  ],
+  "features": [
+    "craftmorkovsk:farmstead",
+    "craftmorkovsk:greenhouse",
+    "craftmorkovsk:windmill"
+  ],
+  "step": "vegetal_decoration"
+}

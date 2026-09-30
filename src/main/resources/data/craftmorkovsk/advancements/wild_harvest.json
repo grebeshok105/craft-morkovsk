@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "title": {
+      "translate": "advancements.craftmorkovsk.wild_harvest.title"
+    },
+    "description": {
+      "translate": "advancements.craftmorkovsk.wild_harvest.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "grant": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "craftmorkovsk:root"
+}
