@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "craftmorkovsk:sprinkler"
+    },
+    "title": {
+      "translate": "advancements.craftmorkovsk.irrigation.title"
+    },
+    "description": {
+      "translate": "advancements.craftmorkovsk.irrigation.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "grant": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "craftmorkovsk:root"
+}
