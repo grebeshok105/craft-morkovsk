@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "craftmorkovsk:tomato"
+    },
+    {
+      "item": "craftmorkovsk:pepper_bell"
+    },
+    {
+      "item": "craftmorkovsk:onion"
+    },
+    {
+      "item": "craftmorkovsk:herb_basil"
+    }
+  ],
+  "result": {
+    "item": "craftmorkovsk:ratatouille",
+    "count": 1
+  }
+}

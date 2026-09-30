@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "craftmorkovsk:morkov"
+    },
+    {
+      "item": "craftmorkovsk:flour"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "result": {
+    "item": "craftmorkovsk:carrot_cake",
+    "count": 1
+  }
+}

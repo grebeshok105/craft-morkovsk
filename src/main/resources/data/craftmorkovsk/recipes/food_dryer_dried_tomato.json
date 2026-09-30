@@ -1,0 +1,13 @@
+{
+  "type": "craftmorkovsk:processing",
+  "machine": "dryer",
+  "input": {
+    "item": "craftmorkovsk:tomato"
+  },
+  "output": {
+    "item": "craftmorkovsk:dried_tomato",
+    "count": 1
+  },
+  "time": 200,
+  "energy": 20
+}

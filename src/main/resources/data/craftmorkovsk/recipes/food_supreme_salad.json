@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "craftmorkovsk:morkovsk_supreme"
+    },
+    {
+      "item": "craftmorkovsk:lettuce"
+    },
+    {
+      "item": "craftmorkovsk:tomato"
+    },
+    {
+      "item": "craftmorkovsk:cucumber"
+    }
+  ],
+  "result": {
+    "item": "craftmorkovsk:supreme_salad",
+    "count": 1
+  }
+}

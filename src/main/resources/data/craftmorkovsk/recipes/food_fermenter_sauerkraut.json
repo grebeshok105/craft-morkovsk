@@ -1,0 +1,13 @@
+{
+  "type": "craftmorkovsk:processing",
+  "machine": "fermenter",
+  "input": {
+    "item": "craftmorkovsk:cabbage"
+  },
+  "output": {
+    "item": "craftmorkovsk:sauerkraut",
+    "count": 1
+  },
+  "time": 400,
+  "energy": 20
+}

@@ -1,0 +1,13 @@
+{
+  "type": "craftmorkovsk:processing",
+  "machine": "fermenter",
+  "input": {
+    "item": "craftmorkovsk:strawberry"
+  },
+  "output": {
+    "item": "craftmorkovsk:berry_jam",
+    "count": 1
+  },
+  "time": 300,
+  "energy": 20
+}

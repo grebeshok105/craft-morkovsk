@@ -1,0 +1,13 @@
+{
+  "type": "craftmorkovsk:processing",
+  "machine": "fermenter",
+  "input": {
+    "item": "craftmorkovsk:cucumber"
+  },
+  "output": {
+    "item": "craftmorkovsk:pickles",
+    "count": 1
+  },
+  "time": 400,
+  "energy": 20
+}

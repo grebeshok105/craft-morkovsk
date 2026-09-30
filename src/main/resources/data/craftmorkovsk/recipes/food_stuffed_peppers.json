@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "craftmorkovsk:pepper_bell"
+    },
+    {
+      "item": "craftmorkovsk:rice"
+    },
+    {
+      "item": "craftmorkovsk:tomato"
+    }
+  ],
+  "result": {
+    "item": "craftmorkovsk:stuffed_peppers",
+    "count": 1
+  }
+}
