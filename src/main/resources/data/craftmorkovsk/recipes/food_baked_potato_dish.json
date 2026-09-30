@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "craftmorkovsk:butter"
+    },
+    {
+      "item": "craftmorkovsk:dried_herb"
+    }
+  ],
+  "result": {
+    "item": "craftmorkovsk:baked_potato_dish",
+    "count": 1
+  }
+}

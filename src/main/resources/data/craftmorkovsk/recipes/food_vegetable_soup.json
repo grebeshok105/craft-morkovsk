@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "craftmorkovsk:potato"
+    },
+    {
+      "item": "craftmorkovsk:morkov"
+    },
+    {
+      "item": "craftmorkovsk:onion"
+    }
+  ],
+  "result": {
+    "item": "craftmorkovsk:vegetable_soup",
+    "count": 1
+  }
+}

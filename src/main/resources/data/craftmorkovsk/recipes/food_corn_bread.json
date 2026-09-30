@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "craftmorkovsk:corn"
+    },
+    {
+      "item": "craftmorkovsk:flour"
+    },
+    {
+      "item": "craftmorkovsk:flour"
+    }
+  ],
+  "result": {
+    "item": "craftmorkovsk:corn_bread",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "craftmorkovsk:processing",
+  "machine": "dryer",
+  "input": {
+    "item": "craftmorkovsk:herb_mint"
+  },
+  "output": {
+    "item": "craftmorkovsk:dried_herb",
+    "count": 1
+  },
+  "time": 200,
+  "energy": 20
+}

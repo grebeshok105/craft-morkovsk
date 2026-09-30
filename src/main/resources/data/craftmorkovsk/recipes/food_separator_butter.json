@@ -1,0 +1,13 @@
+{
+  "type": "craftmorkovsk:processing",
+  "machine": "separator",
+  "input": {
+    "item": "craftmorkovsk:cream"
+  },
+  "output": {
+    "item": "craftmorkovsk:butter",
+    "count": 1
+  },
+  "time": 200,
+  "energy": 20
+}

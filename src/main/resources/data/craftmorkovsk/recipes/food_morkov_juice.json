@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "craftmorkovsk:morkov"
+    },
+    {
+      "item": "craftmorkovsk:morkov"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "item": "craftmorkovsk:morkov_juice",
+    "count": 1
+  }
+}
