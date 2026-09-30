@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "craftmorkovsk:duck_egg"
+    },
+    "title": {
+      "translate": "advancements.craftmorkovsk.animal_keeper.title"
+    },
+    "description": {
+      "translate": "advancements.craftmorkovsk.animal_keeper.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "grant": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "craftmorkovsk:root"
+}
