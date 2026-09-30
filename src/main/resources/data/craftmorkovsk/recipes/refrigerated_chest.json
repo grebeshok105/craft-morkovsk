@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["ISI", "SCS", "ISI"],
+  "key": {
+    "I": {"item": "minecraft:iron_ingot"},
+    "S": {"item": "minecraft:snowball"},
+    "C": {"item": "minecraft:chest"}
+  },
+  "result": {"item": "craftmorkovsk:refrigerated_chest"}
+}
