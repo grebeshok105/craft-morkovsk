@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "facing=north,working=false": {
+      "model": "craftmorkovsk:block/fermenter",
+      "y": 0
+    },
+    "facing=north,working=true": {
+      "model": "craftmorkovsk:block/fermenter_on",
+      "y": 0
+    },
+    "facing=east,working=false": {
+      "model": "craftmorkovsk:block/fermenter",
+      "y": 90
+    },
+    "facing=east,working=true": {
+      "model": "craftmorkovsk:block/fermenter_on",
+      "y": 90
+    },
+    "facing=south,working=false": {
+      "model": "craftmorkovsk:block/fermenter",
+      "y": 180
+    },
+    "facing=south,working=true": {
+      "model": "craftmorkovsk:block/fermenter_on",
+      "y": 180
+    },
+    "facing=west,working=false": {
+      "model": "craftmorkovsk:block/fermenter",
+      "y": 270
+    },
+    "facing=west,working=true": {
+      "model": "craftmorkovsk:block/fermenter_on",
+      "y": 270
+    }
+  }
+}
