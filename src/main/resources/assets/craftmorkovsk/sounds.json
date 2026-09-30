@@ -1,0 +1,17 @@
+{
+  "crop.harvest": {
+    "sounds": ["minecraft:block.crop.break"]
+  },
+  "level.up": {
+    "sounds": ["minecraft:entity.player.levelup"]
+  },
+  "machine.hum": {
+    "sounds": ["minecraft:block.furnace.fire_crackle"]
+  },
+  "tractor.engine": {
+    "sounds": ["minecraft:entity.minecart.riding"]
+  },
+  "handbook.open": {
+    "sounds": ["minecraft:item.book.page_turn"]
+  }
+}

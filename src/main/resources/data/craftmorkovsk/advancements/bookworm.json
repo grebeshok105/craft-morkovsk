@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "craftmorkovsk:agricultural_handbook"
+    },
+    "title": {
+      "translate": "advancements.craftmorkovsk.bookworm.title"
+    },
+    "description": {
+      "translate": "advancements.craftmorkovsk.bookworm.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "grant": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "craftmorkovsk:root"
+}
