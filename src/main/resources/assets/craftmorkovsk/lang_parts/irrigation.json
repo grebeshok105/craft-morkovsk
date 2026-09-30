@@ -1,0 +1,14 @@
+{
+  "block.craftmorkovsk.water_pipe": "Water Pipe",
+  "block.craftmorkovsk.water_channel": "Water Channel",
+  "block.craftmorkovsk.water_tank": "Water Tank",
+  "block.craftmorkovsk.water_pump": "Water Pump",
+  "block.craftmorkovsk.sprinkler": "Sprinkler",
+  "block.craftmorkovsk.advanced_sprinkler": "Advanced Sprinkler",
+  "block.craftmorkovsk.irrigation_valve": "Irrigation Valve",
+  "block.craftmorkovsk.water_tank.level": "Water: %s / %s units",
+  "block.craftmorkovsk.irrigation_valve.open": "Valve opened",
+  "block.craftmorkovsk.irrigation_valve.closed": "Valve closed",
+  "advancements.craftmorkovsk.irrigation.title": "Water Works",
+  "advancements.craftmorkovsk.irrigation.description": "Irrigate soil with a sprinkler"
+}

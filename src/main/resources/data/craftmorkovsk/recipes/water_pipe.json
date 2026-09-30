@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["IGI", "IGI", "IGI"],
+  "key": {
+    "I": {"item": "minecraft:iron_ingot"},
+    "G": {"item": "minecraft:glass"}
+  },
+  "result": {"item": "craftmorkovsk:water_pipe", "count": 8}
+}

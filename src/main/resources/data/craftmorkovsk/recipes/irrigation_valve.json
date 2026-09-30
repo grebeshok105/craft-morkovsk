@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" I ", "ILI", " I "],
+  "key": {
+    "I": {"item": "minecraft:iron_ingot"},
+    "L": {"item": "minecraft:lever"}
+  },
+  "result": {"item": "craftmorkovsk:irrigation_valve"}
+}
