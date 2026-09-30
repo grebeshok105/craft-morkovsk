@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:wheat",
+    "minecraft:hay_block",
+    "craftmorkovsk:morkov",
+    "craftmorkovsk:carrot_red",
+    "craftmorkovsk:carrot_purple"
+  ]
+}
