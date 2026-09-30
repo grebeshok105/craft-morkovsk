@@ -1,0 +1,13 @@
+{
+  "type": "craftmorkovsk:processing",
+  "machine": "mill",
+  "input": {
+    "item": "minecraft:wheat"
+  },
+  "output": {
+    "item": "craftmorkovsk:flour",
+    "count": 1
+  },
+  "time": 200,
+  "energy": 20
+}

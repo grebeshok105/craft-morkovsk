@@ -1,0 +1,19 @@
+{
+  "block.craftmorkovsk.mill": "Grain Mill",
+  "block.craftmorkovsk.oil_press": "Oil Press",
+  "block.craftmorkovsk.separator": "Cream Separator",
+  "block.craftmorkovsk.dryer": "Dryer",
+  "block.craftmorkovsk.fermenter": "Fermenter",
+  "block.craftmorkovsk.seed_extractor": "Seed Extractor",
+  "block.craftmorkovsk.auto_harvester": "Auto Harvester",
+  "block.craftmorkovsk.fertilizer_mixer": "Fertilizer Mixer",
+  "block.craftmorkovsk.packing_station": "Packing Station",
+  "item.craftmorkovsk.flour": "Flour",
+  "item.craftmorkovsk.plant_oil": "Plant Oil",
+  "item.craftmorkovsk.produce_crate": "Produce Crate",
+  "tooltip.craftmorkovsk.produce_crate.packed": "Packed: %s x%s",
+  "tooltip.craftmorkovsk.produce_crate.quality": "Quality: %s",
+  "tooltip.craftmorkovsk.produce_crate.empty": "Empty - pack 9 produce to fill",
+  "advancements.craftmorkovsk.machine_operator.title": "Machine Operator",
+  "advancements.craftmorkovsk.machine_operator.description": "Craft your first powered processing machine"
+}

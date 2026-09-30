@@ -1,0 +1,13 @@
+{
+  "type": "craftmorkovsk:processing",
+  "machine": "oil_press",
+  "input": {
+    "item": "minecraft:sunflower"
+  },
+  "output": {
+    "item": "craftmorkovsk:plant_oil",
+    "count": 1
+  },
+  "time": 240,
+  "energy": 20
+}

@@ -4,6 +4,15 @@
     "craftmorkovsk:energy_cable",
     "craftmorkovsk:small_generator",
     "craftmorkovsk:biomass_generator",
-    "craftmorkovsk:battery"
+    "craftmorkovsk:battery",
+    "craftmorkovsk:mill",
+    "craftmorkovsk:oil_press",
+    "craftmorkovsk:separator",
+    "craftmorkovsk:dryer",
+    "craftmorkovsk:fermenter",
+    "craftmorkovsk:seed_extractor",
+    "craftmorkovsk:auto_harvester",
+    "craftmorkovsk:fertilizer_mixer",
+    "craftmorkovsk:packing_station"
   ]
 }
