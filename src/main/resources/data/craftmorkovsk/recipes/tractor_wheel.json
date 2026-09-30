@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" L ", "LIL", " L "],
+  "key": {
+    "L": {"item": "minecraft:leather"},
+    "I": {"item": "minecraft:iron_ingot"}
+  },
+  "result": {"item": "craftmorkovsk:tractor_wheel"}
+}
