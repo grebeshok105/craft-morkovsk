@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "IDI",
+    " I "
+  ],
+  "key": {
+    "I": {"item": "minecraft:iron_ingot"},
+    "B": {"item": "minecraft:bone_meal"},
+    "D": {"item": "minecraft:dispenser"}
+  },
+  "result": {"item": "craftmorkovsk:attachment_spreader"}
+}

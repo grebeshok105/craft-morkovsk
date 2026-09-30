@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " H ",
+    "ISI",
+    " S "
+  ],
+  "key": {
+    "I": {"item": "minecraft:iron_ingot"},
+    "H": {"item": "minecraft:hopper"},
+    "S": {"item": "minecraft:wheat_seeds"}
+  },
+  "result": {"item": "craftmorkovsk:attachment_planter"}
+}

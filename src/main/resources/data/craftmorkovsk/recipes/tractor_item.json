@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "IGI",
+    "I I"
+  ],
+  "key": {
+    "I": {"item": "minecraft:iron_ingot"},
+    "G": {"item": "craftmorkovsk:small_generator"},
+    "P": {"item": "minecraft:oak_planks"}
+  },
+  "result": {"item": "craftmorkovsk:tractor_item"}
+}

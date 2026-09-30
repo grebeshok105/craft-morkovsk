@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "ISI",
+    " I "
+  ],
+  "key": {
+    "I": {"item": "minecraft:iron_ingot"},
+    "S": {"item": "minecraft:shears"}
+  },
+  "result": {"item": "craftmorkovsk:attachment_harvester"}
+}
