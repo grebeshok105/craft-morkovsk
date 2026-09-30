@@ -1,0 +1,13 @@
+{
+  "type": "craftmorkovsk:processing",
+  "machine": "fermenter",
+  "input": {
+    "item": "craftmorkovsk:morkov"
+  },
+  "output": {
+    "item": "craftmorkovsk:morkov_juice",
+    "count": 1
+  },
+  "time": 300,
+  "energy": 20
+}

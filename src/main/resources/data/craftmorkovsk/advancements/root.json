@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "craftmorkovsk:morkov"
+    },
+    "title": {
+      "translate": "advancements.craftmorkovsk.root.title"
+    },
+    "description": {
+      "translate": "advancements.craftmorkovsk.root.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "background": "minecraft:textures/block/dirt.png"
+  },
+  "criteria": {
+    "grant": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

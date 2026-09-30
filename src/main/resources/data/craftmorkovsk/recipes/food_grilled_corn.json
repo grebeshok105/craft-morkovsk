@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "craftmorkovsk:corn"
+  },
+  "result": "craftmorkovsk:grilled_corn",
+  "experience": 0.35,
+  "cookingtime": 100
+}

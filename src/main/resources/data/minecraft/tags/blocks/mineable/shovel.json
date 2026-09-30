@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "craftmorkovsk:exhausted_soil",
+    "craftmorkovsk:rich_farmland",
+    "craftmorkovsk:rich_soil",
+    "craftmorkovsk:wet_soil",
+    "craftmorkovsk:compost_soil",
+    "craftmorkovsk:fertilized_soil"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "craftmorkovsk:block/the_carrot_crop_stage7"
+  }
+}

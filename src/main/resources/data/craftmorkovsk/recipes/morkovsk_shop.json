@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["WWW", "PCP", "PPP"],
+  "key": {
+    "W": {"tag": "minecraft:wool"},
+    "P": {"tag": "minecraft:planks"},
+    "C": {"item": "minecraft:carrot"}
+  },
+  "result": {"item": "craftmorkovsk:morkovsk_shop"}
+}

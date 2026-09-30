@@ -1,0 +1,18 @@
+{
+  "block.craftmorkovsk.exhausted_soil": "Exhausted Soil",
+  "block.craftmorkovsk.rich_farmland": "Rich Farmland",
+  "block.craftmorkovsk.rich_soil": "Rich Soil",
+  "block.craftmorkovsk.wet_soil": "Wet Soil",
+  "block.craftmorkovsk.compost_soil": "Compost Soil",
+  "block.craftmorkovsk.fertilized_soil": "Fertilized Soil",
+  "block.craftmorkovsk.energy_cable": "Energy Cable",
+  "block.craftmorkovsk.small_generator": "Small Generator",
+  "block.craftmorkovsk.biomass_generator": "Biomass Generator",
+  "block.craftmorkovsk.battery": "Battery",
+  "block.craftmorkovsk.compost_bin": "Compost Bin",
+  "item.craftmorkovsk.compost": "Compost",
+  "item.craftmorkovsk.manure_fertilizer": "Manure Fertilizer",
+  "item.craftmorkovsk.mineral_fertilizer": "Mineral Fertilizer",
+  "item.craftmorkovsk.morkovsk_fertilizer": "Morkovsk Fertilizer",
+  "tooltip.craftmorkovsk.quality": "Quality: %s"
+}

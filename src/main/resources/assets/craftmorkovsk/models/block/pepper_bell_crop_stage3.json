@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "craftmorkovsk:block/pepper_bell_crop_stage3"
+  }
+}

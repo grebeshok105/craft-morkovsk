@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "craftmorkovsk:block/carrot_purple_crop_stage4"
+  }
+}

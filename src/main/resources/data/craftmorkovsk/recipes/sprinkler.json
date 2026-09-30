@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" I ", "IPI", " I "],
+  "key": {
+    "I": {"item": "minecraft:iron_ingot"},
+    "P": {"item": "craftmorkovsk:water_pipe"}
+  },
+  "result": {"item": "craftmorkovsk:sprinkler"}
+}

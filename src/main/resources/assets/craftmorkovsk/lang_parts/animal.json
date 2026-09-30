@@ -1,0 +1,17 @@
+{
+  "entity.craftmorkovsk.duck": "Duck",
+  "entity.craftmorkovsk.turkey": "Turkey",
+  "entity.craftmorkovsk.farm_goat": "Farm Goat",
+  "entity.craftmorkovsk.duck_egg": "Thrown Duck Egg",
+  "entity.craftmorkovsk.turkey_egg": "Thrown Turkey Egg",
+  "item.craftmorkovsk.duck_egg": "Duck Egg",
+  "item.craftmorkovsk.turkey_egg": "Turkey Egg",
+  "item.craftmorkovsk.goat_milk_bucket": "Goat Milk Bucket",
+  "item.craftmorkovsk.manure": "Manure",
+  "item.craftmorkovsk.duck_spawn_egg": "Duck Spawn Egg",
+  "item.craftmorkovsk.turkey_spawn_egg": "Turkey Spawn Egg",
+  "item.craftmorkovsk.farm_goat_spawn_egg": "Farm Goat Spawn Egg",
+  "block.craftmorkovsk.feeding_trough": "Feeding Trough",
+  "advancements.craftmorkovsk.animal_keeper.title": "Animal Keeper",
+  "advancements.craftmorkovsk.animal_keeper.description": "Collect your first farm animal product"
+}

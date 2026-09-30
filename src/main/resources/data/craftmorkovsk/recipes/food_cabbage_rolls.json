@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "craftmorkovsk:cabbage"
+    },
+    {
+      "item": "craftmorkovsk:rice"
+    },
+    {
+      "item": "craftmorkovsk:morkov"
+    }
+  ],
+  "result": {
+    "item": "craftmorkovsk:cabbage_rolls",
+    "count": 1
+  }
+}

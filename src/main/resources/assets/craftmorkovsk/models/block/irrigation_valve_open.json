@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "craftmorkovsk:block/irrigation_valve_open"
+  }
+}

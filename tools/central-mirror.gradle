@@ -1,0 +1,25 @@
+import org.gradle.api.artifacts.repositories.MavenArtifactRepository
+def mirrorUrl = new URI('https://maven-central.storage-download.googleapis.com/maven2/')
+def patch = { repo ->
+    if (repo instanceof MavenArtifactRepository) {
+        def u = repo.url.toString()
+        if (u.contains('repo.maven.apache.org') || u.contains('repo1.maven.org')) {
+            repo.url = mirrorUrl
+        }
+        // Loom's Mojang repo lists MAVEN_CENTRAL_URL in artifactUrls (fabric-loom#1032
+        // fallback); patch those too or artifact fetches still hit the 429'd host.
+        def newUrls = repo.artifactUrls.collect { a ->
+            def s = a.toString()
+            (s.contains('repo.maven.apache.org') || s.contains('repo1.maven.org')) ? mirrorUrl.toString() : a
+        }
+        repo.setArtifactUrls(new LinkedHashSet(newUrls))
+    }
+}
+settingsEvaluated { settings ->
+    settings.pluginManagement.repositories.all(patch)
+    try { settings.dependencyResolutionManagement.repositories.all(patch) } catch (ignored) {}
+}
+allprojects {
+    buildscript.repositories.all(patch)
+    repositories.all(patch)
+}

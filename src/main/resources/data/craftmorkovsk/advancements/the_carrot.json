@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "craftmorkovsk:the_carrot"
+    },
+    "title": {
+      "translate": "advancements.craftmorkovsk.the_carrot.title"
+    },
+    "description": {
+      "translate": "advancements.craftmorkovsk.the_carrot.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "grant": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "craftmorkovsk:morkovsk_supreme"
+}

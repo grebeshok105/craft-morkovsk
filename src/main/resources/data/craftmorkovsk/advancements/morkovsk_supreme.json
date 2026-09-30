@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "craftmorkovsk:morkovsk_supreme"
+    },
+    "title": {
+      "translate": "advancements.craftmorkovsk.morkovsk_supreme.title"
+    },
+    "description": {
+      "translate": "advancements.craftmorkovsk.morkovsk_supreme.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "grant": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "craftmorkovsk:golden_harvest"
+}

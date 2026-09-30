@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "craftmorkovsk:morkovsk_shop"
+    },
+    "title": {
+      "translate": "advancements.craftmorkovsk.rich_farmer.title"
+    },
+    "description": {
+      "translate": "advancements.craftmorkovsk.rich_farmer.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "grant": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "craftmorkovsk:root"
+}

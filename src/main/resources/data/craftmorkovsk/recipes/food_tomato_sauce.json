@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "craftmorkovsk:tomato"
+    },
+    {
+      "item": "craftmorkovsk:tomato"
+    },
+    {
+      "item": "craftmorkovsk:garlic"
+    }
+  ],
+  "result": {
+    "item": "craftmorkovsk:tomato_sauce",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "craftmorkovsk:shipping_crate"
+    },
+    "title": {
+      "translate": "advancements.craftmorkovsk.first_sale.title"
+    },
+    "description": {
+      "translate": "advancements.craftmorkovsk.first_sale.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "grant": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "craftmorkovsk:root"
+}

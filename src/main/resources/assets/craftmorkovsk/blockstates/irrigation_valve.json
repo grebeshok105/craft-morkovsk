@@ -1,0 +1,12 @@
+{
+  "multipart": [
+    {
+      "when": {"open": "true"},
+      "apply": {"model": "craftmorkovsk:block/irrigation_valve_open"}
+    },
+    {
+      "when": {"open": "false"},
+      "apply": {"model": "craftmorkovsk:block/irrigation_valve_closed"}
+    }
+  ]
+}
