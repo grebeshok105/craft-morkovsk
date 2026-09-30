@@ -25,7 +25,7 @@ public final class PriceTable {
 
     private PriceTable() {}
 
-    private static void ensureIndex() {
+    private static synchronized void ensureIndex() {
         if (produceIndex != null) return;
         produceIndex = new HashMap<>();
         seedIndex = new HashMap<>();
