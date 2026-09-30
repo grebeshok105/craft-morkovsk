@@ -30,6 +30,7 @@ public final class MorkovskModules {
 
         // ==== SUBSYSTEM MODULES — one line each, append below (orchestrator wires at merge) ====
         com.craftmorkovsk.irrigation.IrrigationModule.init();
+        com.craftmorkovsk.machine.MachineModule.init();
         com.craftmorkovsk.food.FoodModule.init();
     }
 }
