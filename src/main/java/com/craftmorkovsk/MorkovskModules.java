@@ -37,5 +37,6 @@ public final class MorkovskModules {
         com.craftmorkovsk.economy.EconomyModule.init();
         com.craftmorkovsk.storage.StorageModule.init();
         com.craftmorkovsk.worldgen.WorldgenModule.init();
+        com.craftmorkovsk.progression.ProgressionModule.init();
     }
 }

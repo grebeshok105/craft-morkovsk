@@ -1,8 +1,7 @@
 package com.craftmorkovsk.progression;
 
 import com.craftmorkovsk.data.Award;
-import com.craftmorkovsk.progression.client.HandbookScreen;
-import net.minecraft.client.Minecraft;
+import com.craftmorkovsk.progression.client.HandbookClientHooks;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.sounds.SoundSource;
 import net.minecraft.world.InteractionHand;
@@ -31,8 +30,7 @@ public class HandbookItem extends Item {
                     ProgressionModule.SOUND_HANDBOOK_OPEN.get(), SoundSource.PLAYERS, 0.9f, 1.0f);
         }
         if (level.isClientSide) {
-            DistExecutor.unsafeRunWhenOn(Dist.CLIENT,
-                    () -> () -> Minecraft.getInstance().setScreen(new HandbookScreen()));
+            DistExecutor.unsafeRunWhenOn(Dist.CLIENT, () -> HandbookClientHooks::openHandbook);
         }
         return InteractionResultHolder.sidedSuccess(stack, level.isClientSide);
     }
