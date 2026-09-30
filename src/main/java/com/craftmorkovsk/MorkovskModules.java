@@ -35,5 +35,6 @@ public final class MorkovskModules {
         com.craftmorkovsk.animal.AnimalModule.init();
         com.craftmorkovsk.tractor.TractorModule.init();
         com.craftmorkovsk.economy.EconomyModule.init();
+        com.craftmorkovsk.worldgen.WorldgenModule.init();
     }
 }
